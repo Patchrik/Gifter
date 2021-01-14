@@ -158,3 +158,6 @@ C:\Users\Parker's PC\workspace\csharp\Gifter\Gifter\obj\Debug\netcoreapp5.0\Gift
 C:\Users\Parker's PC\workspace\csharp\Gifter\Gifter\obj\Debug\netcoreapp5.0\ref\Gifter.dll
 C:\Users\Parker's PC\workspace\csharp\Gifter\Gifter\obj\Debug\netcoreapp5.0\Gifter.pdb
 C:\Users\Parker's PC\workspace\csharp\Gifter\Gifter\obj\Debug\netcoreapp5.0\Gifter.genruntimeconfig.cache
+C:\Users\Parker's PC\workspace\csharp\Gifter\Gifter\bin\Debug\netcoreapp5.0\client\package-lock.json
+C:\Users\Parker's PC\workspace\csharp\Gifter\Gifter\bin\Debug\netcoreapp5.0\client\package.json
+C:\Users\Parker's PC\workspace\csharp\Gifter\Gifter\bin\Debug\netcoreapp5.0\client\public\manifest.json
